@@ -1,2 +1,5 @@
 
 .DS_Store
+*.xml
+.idea/$PRODUCT_WORKSPACE_FILE$
+*.iml
